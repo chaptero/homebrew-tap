@@ -10,7 +10,7 @@ cask "drawer" do
   # Drawer updates itself (Sparkle), so Homebrew leaves updating to it.
   auto_updates true
   depends_on arch: :arm64
-  depends_on macos: ">= :tahoe"
+  depends_on macos: :tahoe
 
   app "Drawer.app"
 
