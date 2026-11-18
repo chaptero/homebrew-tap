@@ -1,8 +1,8 @@
 cask "drawer" do
-  version "1.3"
-  sha256 "b443bf385c03135cbc4b0b8066b19f3ab134fcae8848ca56e3dcd8ef28257c81"
+  version "1.4"
+  sha256 "fabce52275051620db66db7b497d60e45aa588a0d9e764550e93a6b283b13778"
 
-  url "https://github.com/chaptero/Drawer/releases/download/v1.3/Drawer.dmg"
+  url "https://github.com/chaptero/Drawer/releases/download/v1.4/Drawer.dmg"
   name "Drawer"
   desc "Tuck menu bar icons into a drawer behind a single chevron"
   homepage "https://github.com/chaptero/Drawer"
